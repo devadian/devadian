@@ -1,0 +1,12 @@
+<svg width="100%" height="190" viewBox="0 0 1000 190" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="52%" stop-color="#6D28D9" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L1000,0 L1000,150 C760,200 520,120 260,165 C140,185 60,175 0,155 Z" fill="url(#bgGrad)" />
+  <text x="500" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">adian@devadian</text>
+  <text x="500" y="114" font-family="'JetBrains Mono', Consolas, monospace" font-size="17" font-weight="500" fill="#e2e8f0" text-anchor="middle">~$ security · networking · systems · cloud · code</text>
+</svg>
