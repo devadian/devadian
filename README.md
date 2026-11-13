@@ -3,7 +3,7 @@
 ```bash
 adian@devadian ~ $ neofetch
 
-  name       Adian Ahmed
+  name       Adian
   focus      Cybersecurity · Networking · Cloud & Systems
   location   Bangladesh
   language   English
