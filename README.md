@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6D28D9,100:22D3EE&height=195&section=header&text=adian%40devadian&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=~%24%20mobile%20%C2%B7%20desktop%20%C2%B7%20cloud%20%C2%B7%20systems&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6D28D9,100:22D3EE&height=195&section=header&text=adian%40devadian&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=~%24%20security%20%C2%B7%20systems%20%C2%B7%20full-stack%20%C2%B7%20reverse-engineering&descAlignY=60&descSize=17" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/devadian">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=30&lines=%24+whoami+%E2%86%92+Adian+Ahmed;%24+stack+%E2%86%92+Flutter+%C2%B7+Kotlin+%C2%B7+Cloudflare+Workers;%24+building+%E2%86%92+native+media+apps%2C+edge+APIs+%26+desktop+systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17.5&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=640&height=30&lines=%24+whoami+%E2%86%92+Adian+Ahmed+(All-Rounder+Technologist);%24+focus+%E2%86%92+Cybersecurity+%C2%B7+Reverse+Engineering+%C2%B7+App+Dev;%24+stack+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Flutter+%C2%B7+Kotlin+%C2%B7+Cloudflare;%24+building+%E2%86%92+secure+systems%2C+native+apps%2C+APIs+%26+automation" alt="typing" />
 </a>
 
 </div>
@@ -14,72 +14,48 @@
 adian@devadian ~ $ neofetch
 
   name       Adian Ahmed
-  role       Cross-Platform App & Cloud Systems Developer
+  role       Full-Stack Developer · Cybersecurity & Systems Engineer
   location   Bangladesh 🇧🇩
   languages  বাংলা · English
-  builds     native media players · streaming ecosystems · edge APIs · desktop installers
-  approach   end-to-end engineering — Android, Windows x64, Cloudflare Edge & UI/UX
+  domains    cybersecurity · reverse engineering · mobile & desktop · cloud APIs · automation
+  approach   all-rounder — breaking, securing, designing & building complete ecosystems
   github     github.com/devadian
 ```
-
-<br>
-
-## `~/featured`
-
-<div align="center">
-
-### ⚡ [FLUX STREAM](https://github.com/devadian/FluxStream)
-**High-performance native streaming & offline media player for Android and Windows x64**
-
-<p>
-  <a href="https://github.com/devadian/FluxStream/releases/latest">
-    <img src="https://img.shields.io/github/v/release/devadian/FluxStream?style=for-the-badge&label=LATEST%20RELEASE&color=6D28D9" alt="Latest Release" />
-  </a>
-  <a href="https://github.com/devadian/FluxStream/releases">
-    <img src="https://img.shields.io/github/downloads/devadian/FluxStream/total?style=for-the-badge&label=DOWNLOADS&color=E11D48" alt="Total Downloads" />
-  </a>
-  <a href="https://github.com/devadian/FluxStream/releases/latest">
-    <img src="https://img.shields.io/badge/ANDROID-APK-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Android APK" />
-  </a>
-  <a href="https://github.com/devadian/FluxStream/releases/latest">
-    <img src="https://img.shields.io/badge/WINDOWS-x64%20SETUP-0284C7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Setup" />
-  </a>
-</p>
-
-</div>
 
 <br>
 
 ## `~/stack`
 
 **`lang`** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**`client`** &nbsp;
+**`security & re`** &nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-E11D48?style=flat-square&logo=hackthebox&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography%20%26%20DRM-6D28D9?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**`app & desktop`** &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%20x64-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![libmpv](https://img.shields.io/badge/libmpv%20%2F%20MediaKit-6D28D9?style=flat-square&logo=mpv&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
-**`cloud`** &nbsp;
+**`cloud & backend`** &nbsp;
 ![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/D1%20SQL-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare KV](https://img.shields.io/badge/KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/Edge%20APIs-10B981?style=flat-square&logo=fastapi&logoColor=white)
-
-**`tools`** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Inno Setup](https://img.shields.io/badge/Inno%20Setup-2563EB?style=flat-square&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -88,7 +64,7 @@ adian@devadian ~ $ neofetch
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-devadian-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/devadian)
-[![FLUX STREAM](https://img.shields.io/badge/Project-FLUX%20STREAM-22D3EE?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=161b22)](https://github.com/devadian/FluxStream/releases/latest)
+[![Featured Release](https://img.shields.io/badge/Latest%20Build-FLUX%20STREAM-22D3EE?style=for-the-badge&logo=github&logoColor=black&labelColor=161b22)](https://github.com/devadian/FluxStream/releases/latest)
 
 </div>
 
